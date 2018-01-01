@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vitaly Bolychev</title>
-    <link>//cv21.github.io/</link>
-    <description>Recent content on Vitaly Bolychev</description>
+    <title>Blog on Vitaly Bolychev</title>
+    <link>//cv21.github.io/blog/</link>
+    <description>Recent content in Blog on Vitaly Bolychev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 19:37:57 +0300</lastBuildDate>
     
-	<atom:link href="//cv21.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//cv21.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

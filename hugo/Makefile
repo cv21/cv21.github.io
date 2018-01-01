@@ -1,7 +1,4 @@
 deploy:
 	hugo
-	cd ../
-	git add .
-	git commit -m "${m}"
-	git push origin master
+	cd ../ && git add . && git commit -m "${m}" && git push origin master
 	

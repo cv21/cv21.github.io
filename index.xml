@@ -20,14 +20,5 @@
       <description>#The test page</description>
     </item>
     
-    <item>
-      <title>About</title>
-      <link>//cv21.github.io/fixed/about/</link>
-      <pubDate>Sun, 31 Dec 2017 22:42:50 +0300</pubDate>
-      
-      <guid>//cv21.github.io/fixed/about/</guid>
-      <description>Vitaly Bolychev</description>
-    </item>
-    
   </channel>
 </rss>

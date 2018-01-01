@@ -1,4 +1,4 @@
-baseURL = "http://cv21.github.io/"
+baseURL = "//cv21.github.io/"
 languageCode = "en-us"
 title = "Vitaly Bolychev"
 
